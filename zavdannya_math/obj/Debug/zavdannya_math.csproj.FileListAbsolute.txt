@@ -1,0 +1,7 @@
+C:\Users\Shvagr0\source\repos\zavdannya_math\obj\Debug\zavdannya_math.csproj.AssemblyReference.cache
+C:\Users\Shvagr0\source\repos\zavdannya_math\obj\Debug\zavdannya_math.csproj.CoreCompileInputs.cache
+C:\Users\Shvagr0\source\repos\zavdannya_math\bin\Debug\zavdannya_math.exe.config
+C:\Users\Shvagr0\source\repos\zavdannya_math\bin\Debug\zavdannya_math.exe
+C:\Users\Shvagr0\source\repos\zavdannya_math\bin\Debug\zavdannya_math.pdb
+C:\Users\Shvagr0\source\repos\zavdannya_math\obj\Debug\zavdannya_math.exe
+C:\Users\Shvagr0\source\repos\zavdannya_math\obj\Debug\zavdannya_math.pdb
