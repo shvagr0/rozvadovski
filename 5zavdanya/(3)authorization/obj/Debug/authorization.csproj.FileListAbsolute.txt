@@ -1,0 +1,7 @@
+D:\programming\C#\zavdanya\authorization\bin\Debug\authorization.exe.config
+D:\programming\C#\zavdanya\authorization\bin\Debug\authorization.exe
+D:\programming\C#\zavdanya\authorization\bin\Debug\authorization.pdb
+D:\programming\C#\zavdanya\authorization\obj\Debug\authorization.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\authorization\obj\Debug\authorization.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\authorization\obj\Debug\authorization.exe
+D:\programming\C#\zavdanya\authorization\obj\Debug\authorization.pdb

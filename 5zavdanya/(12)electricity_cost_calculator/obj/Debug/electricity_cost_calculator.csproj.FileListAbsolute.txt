@@ -1,0 +1,7 @@
+D:\programming\C#\zavdanya\electricity_cost_calculator\obj\Debug\electricity_cost_calculator.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\electricity_cost_calculator\obj\Debug\electricity_cost_calculator.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\electricity_cost_calculator\bin\Debug\electricity_cost_calculator.exe.config
+D:\programming\C#\zavdanya\electricity_cost_calculator\bin\Debug\electricity_cost_calculator.exe
+D:\programming\C#\zavdanya\electricity_cost_calculator\bin\Debug\electricity_cost_calculator.pdb
+D:\programming\C#\zavdanya\electricity_cost_calculator\obj\Debug\electricity_cost_calculator.exe
+D:\programming\C#\zavdanya\electricity_cost_calculator\obj\Debug\electricity_cost_calculator.pdb

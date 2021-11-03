@@ -1,0 +1,7 @@
+D:\programming\C#\zavdanya\even_number\bin\Debug\even_number.exe.config
+D:\programming\C#\zavdanya\even_number\bin\Debug\even_number.exe
+D:\programming\C#\zavdanya\even_number\bin\Debug\even_number.pdb
+D:\programming\C#\zavdanya\even_number\obj\Debug\even_number.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\even_number\obj\Debug\even_number.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\even_number\obj\Debug\even_number.exe
+D:\programming\C#\zavdanya\even_number\obj\Debug\even_number.pdb

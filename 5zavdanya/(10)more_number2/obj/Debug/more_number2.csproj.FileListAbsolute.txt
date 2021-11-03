@@ -1,0 +1,7 @@
+D:\programming\C#\zavdanya\more_number2\obj\Debug\more_number2.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\more_number2\obj\Debug\more_number2.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\more_number2\bin\Debug\more_number2.exe.config
+D:\programming\C#\zavdanya\more_number2\bin\Debug\more_number2.exe
+D:\programming\C#\zavdanya\more_number2\bin\Debug\more_number2.pdb
+D:\programming\C#\zavdanya\more_number2\obj\Debug\more_number2.exe
+D:\programming\C#\zavdanya\more_number2\obj\Debug\more_number2.pdb

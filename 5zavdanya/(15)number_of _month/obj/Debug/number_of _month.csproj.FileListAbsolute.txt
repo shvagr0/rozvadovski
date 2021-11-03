@@ -1,0 +1,7 @@
+C:\Users\Shvagr0\source\repos\number_of _month\obj\Debug\number_of _month.csproj.AssemblyReference.cache
+C:\Users\Shvagr0\source\repos\number_of _month\obj\Debug\number_of _month.csproj.CoreCompileInputs.cache
+C:\Users\Shvagr0\source\repos\number_of _month\bin\Debug\number_of _month.exe.config
+C:\Users\Shvagr0\source\repos\number_of _month\bin\Debug\number_of _month.exe
+C:\Users\Shvagr0\source\repos\number_of _month\bin\Debug\number_of _month.pdb
+C:\Users\Shvagr0\source\repos\number_of _month\obj\Debug\number_of _month.exe
+C:\Users\Shvagr0\source\repos\number_of _month\obj\Debug\number_of _month.pdb

@@ -1,0 +1,7 @@
+D:\programming\C#\zavdanya\number_of _day\bin\Debug\number_of _day.exe.config
+D:\programming\C#\zavdanya\number_of _day\bin\Debug\number_of _day.exe
+D:\programming\C#\zavdanya\number_of _day\bin\Debug\number_of _day.pdb
+D:\programming\C#\zavdanya\number_of _day\obj\Debug\number_of _day.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\number_of _day\obj\Debug\number_of _day.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\number_of _day\obj\Debug\number_of _day.exe
+D:\programming\C#\zavdanya\number_of _day\obj\Debug\number_of _day.pdb

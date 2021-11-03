@@ -1,0 +1,7 @@
+D:\programming\C#\zavdanya\type_of_triangle\bin\Debug\type_of_triangle.exe.config
+D:\programming\C#\zavdanya\type_of_triangle\bin\Debug\type_of_triangle.exe
+D:\programming\C#\zavdanya\type_of_triangle\bin\Debug\type_of_triangle.pdb
+D:\programming\C#\zavdanya\type_of_triangle\obj\Debug\type_of_triangle.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\type_of_triangle\obj\Debug\type_of_triangle.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\type_of_triangle\obj\Debug\type_of_triangle.exe
+D:\programming\C#\zavdanya\type_of_triangle\obj\Debug\type_of_triangle.pdb

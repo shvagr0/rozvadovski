@@ -1,0 +1,7 @@
+D:\programming\C#\zavdanya\water_condition\bin\Debug\water_condition.exe.config
+D:\programming\C#\zavdanya\water_condition\bin\Debug\water_condition.exe
+D:\programming\C#\zavdanya\water_condition\bin\Debug\water_condition.pdb
+D:\programming\C#\zavdanya\water_condition\obj\Debug\water_condition.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\water_condition\obj\Debug\water_condition.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\water_condition\obj\Debug\water_condition.exe
+D:\programming\C#\zavdanya\water_condition\obj\Debug\water_condition.pdb

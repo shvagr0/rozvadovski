@@ -1,0 +1,7 @@
+D:\programming\C#\zavdanya\func_1\bin\Debug\func_1.exe.config
+D:\programming\C#\zavdanya\func_1\bin\Debug\func_1.exe
+D:\programming\C#\zavdanya\func_1\bin\Debug\func_1.pdb
+D:\programming\C#\zavdanya\func_1\obj\Debug\func_1.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\func_1\obj\Debug\func_1.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\func_1\obj\Debug\func_1.exe
+D:\programming\C#\zavdanya\func_1\obj\Debug\func_1.pdb

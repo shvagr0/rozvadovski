@@ -1,0 +1,14 @@
+D:\programming\C#\zavdanya\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\programming\C#\zavdanya\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\programming\C#\zavdanya\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\programming\C#\zavdanya\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\programming\C#\zavdanya\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\programming\C#\zavdanya\PIB_out\bin\Debug\ConsoleApp1.exe.config
+D:\programming\C#\zavdanya\PIB_out\bin\Debug\ConsoleApp1.exe
+D:\programming\C#\zavdanya\PIB_out\bin\Debug\ConsoleApp1.pdb
+D:\programming\C#\zavdanya\PIB_out\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\programming\C#\zavdanya\PIB_out\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\programming\C#\zavdanya\PIB_out\obj\Debug\ConsoleApp1.exe
+D:\programming\C#\zavdanya\PIB_out\obj\Debug\ConsoleApp1.pdb
