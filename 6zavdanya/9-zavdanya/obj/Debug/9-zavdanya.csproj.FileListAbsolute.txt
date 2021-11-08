@@ -1,0 +1,6 @@
+D:\programming\C#\#6zavdanya\9-zavdanya\bin\Debug\9-zavdanya.exe.config
+D:\programming\C#\#6zavdanya\9-zavdanya\bin\Debug\9-zavdanya.exe
+D:\programming\C#\#6zavdanya\9-zavdanya\bin\Debug\9-zavdanya.pdb
+D:\programming\C#\#6zavdanya\9-zavdanya\obj\Debug\9-zavdanya.csproj.CoreCompileInputs.cache
+D:\programming\C#\#6zavdanya\9-zavdanya\obj\Debug\9-zavdanya.exe
+D:\programming\C#\#6zavdanya\9-zavdanya\obj\Debug\9-zavdanya.pdb

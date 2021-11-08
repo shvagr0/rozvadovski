@@ -1,0 +1,7 @@
+D:\programming\C#\(№6)zavdanya\6-zavdanya\bin\Debug\6-zavdanya.exe.config
+D:\programming\C#\(№6)zavdanya\6-zavdanya\bin\Debug\6-zavdanya.exe
+D:\programming\C#\(№6)zavdanya\6-zavdanya\bin\Debug\6-zavdanya.pdb
+D:\programming\C#\(№6)zavdanya\6-zavdanya\obj\Debug\6-zavdanya.csproj.AssemblyReference.cache
+D:\programming\C#\(№6)zavdanya\6-zavdanya\obj\Debug\6-zavdanya.csproj.CoreCompileInputs.cache
+D:\programming\C#\(№6)zavdanya\6-zavdanya\obj\Debug\6-zavdanya.exe
+D:\programming\C#\(№6)zavdanya\6-zavdanya\obj\Debug\6-zavdanya.pdb

@@ -1,0 +1,7 @@
+D:\rozvadovski\7zavdanya\5-zavdanya\bin\Debug\5-zavdanya.exe.config
+D:\rozvadovski\7zavdanya\5-zavdanya\bin\Debug\5-zavdanya.exe
+D:\rozvadovski\7zavdanya\5-zavdanya\bin\Debug\5-zavdanya.pdb
+D:\rozvadovski\7zavdanya\5-zavdanya\obj\Debug\5-zavdanya.csproj.AssemblyReference.cache
+D:\rozvadovski\7zavdanya\5-zavdanya\obj\Debug\5-zavdanya.csproj.CoreCompileInputs.cache
+D:\rozvadovski\7zavdanya\5-zavdanya\obj\Debug\5-zavdanya.exe
+D:\rozvadovski\7zavdanya\5-zavdanya\obj\Debug\5-zavdanya.pdb

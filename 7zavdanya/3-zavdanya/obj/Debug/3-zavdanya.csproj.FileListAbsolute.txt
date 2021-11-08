@@ -1,0 +1,6 @@
+D:\rozvadovski\7zavdanya\3-zavdanya\bin\Debug\3-zavdanya.exe.config
+D:\rozvadovski\7zavdanya\3-zavdanya\bin\Debug\3-zavdanya.exe
+D:\rozvadovski\7zavdanya\3-zavdanya\bin\Debug\3-zavdanya.pdb
+D:\rozvadovski\7zavdanya\3-zavdanya\obj\Debug\3-zavdanya.csproj.CoreCompileInputs.cache
+D:\rozvadovski\7zavdanya\3-zavdanya\obj\Debug\3-zavdanya.exe
+D:\rozvadovski\7zavdanya\3-zavdanya\obj\Debug\3-zavdanya.pdb
