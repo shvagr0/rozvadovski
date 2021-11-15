@@ -1,0 +1,16 @@
+D:\rozvadovski\4_praktichna\variant1,6,11\bin\Debug\net5.0\variant1,6,11.exe
+D:\rozvadovski\4_praktichna\variant1,6,11\bin\Debug\net5.0\variant1,6,11.deps.json
+D:\rozvadovski\4_praktichna\variant1,6,11\bin\Debug\net5.0\variant1,6,11.runtimeconfig.json
+D:\rozvadovski\4_praktichna\variant1,6,11\bin\Debug\net5.0\variant1,6,11.runtimeconfig.dev.json
+D:\rozvadovski\4_praktichna\variant1,6,11\bin\Debug\net5.0\variant1,6,11.dll
+D:\rozvadovski\4_praktichna\variant1,6,11\bin\Debug\net5.0\ref\variant1,6,11.dll
+D:\rozvadovski\4_praktichna\variant1,6,11\bin\Debug\net5.0\variant1,6,11.pdb
+D:\rozvadovski\4_praktichna\variant1,6,11\obj\Debug\net5.0\variant1,6,11.csproj.AssemblyReference.cache
+D:\rozvadovski\4_praktichna\variant1,6,11\obj\Debug\net5.0\variant1,6,11.GeneratedMSBuildEditorConfig.editorconfig
+D:\rozvadovski\4_praktichna\variant1,6,11\obj\Debug\net5.0\variant1,6,11.AssemblyInfoInputs.cache
+D:\rozvadovski\4_praktichna\variant1,6,11\obj\Debug\net5.0\variant1,6,11.AssemblyInfo.cs
+D:\rozvadovski\4_praktichna\variant1,6,11\obj\Debug\net5.0\variant1,6,11.csproj.CoreCompileInputs.cache
+D:\rozvadovski\4_praktichna\variant1,6,11\obj\Debug\net5.0\variant1,6,11.dll
+D:\rozvadovski\4_praktichna\variant1,6,11\obj\Debug\net5.0\ref\variant1,6,11.dll
+D:\rozvadovski\4_praktichna\variant1,6,11\obj\Debug\net5.0\variant1,6,11.pdb
+D:\rozvadovski\4_praktichna\variant1,6,11\obj\Debug\net5.0\variant1,6,11.genruntimeconfig.cache
