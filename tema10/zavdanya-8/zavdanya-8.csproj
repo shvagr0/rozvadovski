@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6D2D8E3C-5D99-4308-AC72-6C0D465D8970}</ProjectGuid>
+    <ProjectGuid>{CECA7856-2D02-4574-AF15-C3D90482900E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>zavdanya_4</RootNamespace>
-    <AssemblyName>zavdanya-4</AssemblyName>
+    <RootNamespace>zavdanya_8</RootNamespace>
+    <AssemblyName>zavdanya-8</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

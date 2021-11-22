@@ -8,42 +8,34 @@ namespace zavdanya_4
 {
     class Student
     {
-        public string surname;
         public string name;
-        public int course;
-        public int years;
+        public byte course;
+        public byte age;
+        static public byte num = 0;
 
-        public Student(string surname, string name, int course, int years)
+        public Student()
         {
-            this.surname = surname;
+            num++;
+        }
+        public Student(string name, byte course, byte age)
+        {
             this.name = name;
             this.course = course;
-            this.years = years;
+            this.course = age;
+            num++;
         }
 
 
     }
     class Program
     {
-        static int PrintStudents(Student[] students)
-        {
-            foreach (Student i in students)
-            {
-                Console.WriteLine($"{i.surname} {i.name} Курс-{i.course} Вік: {i.years} років");
-            }
-            return students.Length;
-        }
-
         static void Main(string[] args)
         {
-            Student student1 = new Student("Розвадоський", "Владислав", 2, 16);
-            Student student2 = new Student("Зміяк", "Назар", 2, 16);
-            Student student3 = new Student("Ткачук", "Денис", 3, 17);
+            Student student1 = new Student("Vladislav", 2, 16);
+            Student student2 = new Student();
+            Student student3 = new Student();
 
-            Student[] students = new Student[] { student1, student2, student3 };
-
-            Console.WriteLine("Кількість студентів = {0}\n", PrintStudents(students));
-
+            Console.WriteLine(Student.num);
         }
     }
 }
