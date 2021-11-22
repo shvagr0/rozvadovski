@@ -1,0 +1,7 @@
+D:\rozvadovski\tema11\bin\Debug\tema11.exe.config
+D:\rozvadovski\tema11\bin\Debug\tema11.exe
+D:\rozvadovski\tema11\bin\Debug\tema11.pdb
+D:\rozvadovski\tema11\obj\Debug\tema11.csproj.AssemblyReference.cache
+D:\rozvadovski\tema11\obj\Debug\tema11.csproj.CoreCompileInputs.cache
+D:\rozvadovski\tema11\obj\Debug\tema11.exe
+D:\rozvadovski\tema11\obj\Debug\tema11.pdb
