@@ -1,0 +1,8 @@
+D:\rozvadovski\tema12\zavdanya\bin\Debug\zavdanya.exe.config
+D:\rozvadovski\tema12\zavdanya\bin\Debug\zavdanya.exe
+D:\rozvadovski\tema12\zavdanya\bin\Debug\zavdanya.pdb
+D:\rozvadovski\tema12\zavdanya\obj\Debug\zavdanya.csproj.AssemblyReference.cache
+D:\rozvadovski\tema12\zavdanya\obj\Debug\zavdanya.csproj.SuggestedBindingRedirects.cache
+D:\rozvadovski\tema12\zavdanya\obj\Debug\zavdanya.csproj.CoreCompileInputs.cache
+D:\rozvadovski\tema12\zavdanya\obj\Debug\zavdanya.exe
+D:\rozvadovski\tema12\zavdanya\obj\Debug\zavdanya.pdb
