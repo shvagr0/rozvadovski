@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1_zavdanya
+namespace zavdanya
 {
+    enum Marks { відмінно = 12, добре = 9, задовільно = 6, незадовільно = 3 }
     struct Student
     {
         public string surname;
@@ -13,14 +14,26 @@ namespace _1_zavdanya
         public int course;
         public int age;
 
-        public Marks mark1, mark2, mark3, mark4;
+        public int mark1, mark2, mark3, mark4;
 
-        public void EnterMark(Marks mark1, Marks mark2, Marks mark3, Marks mark4)
+        public void EnterMark(Marks m1, Marks m2, Marks m3, Marks m4)
         {
-            this.mark1 = mark1;
-            this.mark2 = mark2;
-            this.mark3 = mark3;
-            this.mark4 = mark4;
+            mark1 = (int)m1;
+            mark2 = (int)m2;
+            mark3 = (int)m3;
+            mark4 = (int)m4;
+        }
+        public void EnterMark()
+        {
+            Console.WriteLine($"Введiть оцiнки студента: {surname} {name} ({course}-курс)");
+            Console.Write("Mark 1 = ");
+            mark1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Mark 2 = ");
+            mark2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Mark 3 = ");
+            mark3 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Mark 4 = ");
+            mark4 = Convert.ToInt32(Console.ReadLine());
         }
 
         /*Метод для виводу інформації про студента*/
@@ -38,7 +51,6 @@ namespace _1_zavdanya
         }
     }
 
-    enum Marks { Відмінно = 9, Добре = 6, Задовільно = 3, Незадовільно = 0 }
     class Program
     {
         /*Функція яка сортує масив структур Student по значенню age*/
@@ -50,6 +62,23 @@ namespace _1_zavdanya
                 for (int j = i + 1; j < arr.Length; j++)
                 {
                     if (arr[i].age > arr[j].age)
+                    {
+                        temp = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = temp;
+                    }
+                }
+            }
+        }
+
+        static void Sort_marks(Student[] arr)
+        {
+            Student temp;
+            for (int i = 0; i < arr.Length - 1; i++)
+            {
+                for (int j = i + 1; j < arr.Length; j++)
+                {
+                    if (arr[j].mark1 >= 10 && arr[j].mark2 >= 10 && arr[j].mark3 >= 10 && arr[j].mark4 >= 10)
                     {
                         temp = arr[i];
                         arr[i] = arr[j];
@@ -128,21 +157,12 @@ namespace _1_zavdanya
             Sort_age(arr);
 
             /*Ввід оцінок студентів*/
-            for (int i = 0; i < arr.Length; i++)
+            foreach (Student i in arr)
             {
-                Console.WriteLine($"Введiть оцiнки студента: {arr[i].surname} {arr[i].name} ({arr[i].course}-курс)");
-                Console.Write("Mark 1 = ");
-                int mark1 = Convert.ToInt32(Console.ReadLine());
-                Console.Write("Mark 2 = ");
-                int mark2 = Convert.ToInt32(Console.ReadLine());
-                Console.Write("Mark 3 = ");
-                int mark3 = Convert.ToInt32(Console.ReadLine());
-                Console.Write("Mark 4 = ");
-                int mark4 = Convert.ToInt32(Console.ReadLine());
-                arr[i].EnterMark(mark1, mark2, mark3, mark4);
-                Console.WriteLine();
+                i.EnterMark();
             }
 
+            /*Студенти якi отримали хотяб одну двiйку*/
             Console.WriteLine("Студенти якi отримали хотяб одну двiйку:");
             foreach (Student i in arr)
             {
@@ -152,6 +172,24 @@ namespace _1_zavdanya
                 }
             }
 
+            /*хто має всі оцінки «відмінно» перемістити в початок масиву*/
+            Sort_marks(arr);
+
+            /*Ввід оцінки студента перелічувальними даними*/
+            arr[5].EnterMark(Marks.добре, Marks.добре, Marks.добре, Marks.добре);
+
+            /*Вивід інформації про всіх студентів*/
+            foreach (Student i in arr)
+            {
+                i.Info();
+            }
+
+            /*Вивід на екран відомостей про студентів, хто має лише оцінки «добре» або «відмінно»*/
+            foreach (Student i in arr)
+            {
+                if (i.mark1 >= (int)Marks.добре && i.mark2 >= (int)Marks.добре && i.mark3 >= (int)Marks.добре && i.mark4 >= (int)Marks.добре)
+                    i.Info();
+            }
         }
     }
 }
