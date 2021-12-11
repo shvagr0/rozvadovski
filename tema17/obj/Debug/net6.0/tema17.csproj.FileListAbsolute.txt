@@ -1,0 +1,15 @@
+D:\rozvadovski\tema17\bin\Debug\net6.0\tema17.exe
+D:\rozvadovski\tema17\bin\Debug\net6.0\tema17.deps.json
+D:\rozvadovski\tema17\bin\Debug\net6.0\tema17.runtimeconfig.json
+D:\rozvadovski\tema17\bin\Debug\net6.0\tema17.dll
+D:\rozvadovski\tema17\bin\Debug\net6.0\ref\tema17.dll
+D:\rozvadovski\tema17\bin\Debug\net6.0\tema17.pdb
+D:\rozvadovski\tema17\obj\Debug\net6.0\tema17.csproj.AssemblyReference.cache
+D:\rozvadovski\tema17\obj\Debug\net6.0\tema17.GeneratedMSBuildEditorConfig.editorconfig
+D:\rozvadovski\tema17\obj\Debug\net6.0\tema17.AssemblyInfoInputs.cache
+D:\rozvadovski\tema17\obj\Debug\net6.0\tema17.AssemblyInfo.cs
+D:\rozvadovski\tema17\obj\Debug\net6.0\tema17.csproj.CoreCompileInputs.cache
+D:\rozvadovski\tema17\obj\Debug\net6.0\tema17.dll
+D:\rozvadovski\tema17\obj\Debug\net6.0\ref\tema17.dll
+D:\rozvadovski\tema17\obj\Debug\net6.0\tema17.pdb
+D:\rozvadovski\tema17\obj\Debug\net6.0\tema17.genruntimeconfig.cache
